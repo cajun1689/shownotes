@@ -1,0 +1,32 @@
+Topics:
+Defcon
+  MAVSH
+  Google Hack
+  PACS
+Security Audit
+  Lock down internal network
+    Internal Leaving
+      DNS
+      Http
+      Https
+      NTP
+      quic
+      SMTP
+      SMTPS
+  Cross Vlan Traffic
+    FTP
+    FTPS
+    SSH
+    Telnet
+    Telnets
+    1337
+    4444
+  Switch level traffic blocking
+Session Manager
+  What is it
+  Why is it important to someone hacking
+  What can it do on windows
+    Persistance
+  What can you do on linux
+    Raspberry Pi dead drop
+    
